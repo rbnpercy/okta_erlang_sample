@@ -1,0 +1,16 @@
+{application, okta_erl_sample,
+ [{description, "An OTP application"},
+  {vsn, "0.1.1},
+  {registered, []},
+  {mod, { okta_erl_sample_app, []}},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, ["Apache 2.0"]},
+  {links, []}
+ ]}.
