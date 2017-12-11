@@ -1,5 +1,7 @@
-okta_erl_sample
+okta_erl_sample - WIP
 =====
+
+**WORK IN PROGRESS / ON HOLD**
 
 Baseline / Barebone Erlang application utilising Okta and OTP.
 
